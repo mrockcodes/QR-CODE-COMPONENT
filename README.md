@@ -18,10 +18,6 @@ Hi! I'm Martin Rock, an aspiring Full-stack Web developer. I have a 1 year exper
 ![This is the second part of the css code I made](./images/Screenshot%202024-02-13%20233323.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
