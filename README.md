@@ -13,14 +13,14 @@ Hi! I'm Martin Rock, an aspiring Full-stack Web developer. I have a 1 year exper
 
 ### Screenshot
 
-![This is the html code I made with no assistance](./images/Screenshot%202024-02-13%20233150.png)
-![This is the first part of the css code I made](./images/Screenshot%202024-02-13%20233308.png)
-![This is the second part of the css code I made](./images/Screenshot%202024-02-13%20233323.png)
+(./images/Screenshot%202024-02-13%20233150.png)
+(./images/Screenshot%202024-02-13%20233308.png)
+(./images/Screenshot%202024-02-13%20233323.png)
 
 ## links
 
-Solution: 
-Live server: https://github.com/mrockcodes/qr-code-component
+Solution: https://github.com/mrockcodes/qr-code-component
+Live server: (https://mrockcodes.github.io/qr-code-component/)
 
 ## My process
 
